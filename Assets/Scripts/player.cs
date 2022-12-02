@@ -7,7 +7,6 @@ public class player : MonoBehaviour
 
     Rigidbody rbPlayer;
     Animator anim;
-    
     bool walk;
     bool idle;
 
